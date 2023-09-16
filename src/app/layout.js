@@ -1,8 +1,8 @@
-import Header from "@/components/Header";
+import Header from "./components/Header";
 import "./globals.css";
 import Providers from "./Providers";
-import Navbar from "@/components/Navbar";
-import SearchBox from "@/components/SearchBox";
+import Navbar from "./components/Navbar";
+import SearchBox from "./components/SearchBox";
 
 export const metadata = {
   title: "MoviePlay",
